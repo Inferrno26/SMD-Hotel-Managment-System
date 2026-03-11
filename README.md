@@ -1,6 +1,6 @@
 # SMD-Tour-Travel-Agency-Operations-System
 
-This repository contains the group project for the **Software Modeling and Design** course.
+This repository contains the group project for our **Software Modeling and Design** course.
 
 ## Project Topic
 **Tour & Travel Agency Operations System** — a centralized system to support a travel agency’s core operations, including tour package management, bookings/reservations, customer management, supplier coordination, payments/invoicing, and reporting.
